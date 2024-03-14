@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Solution to the lockboxes problem
+Solution to lockboxes problem
 """
 
 
